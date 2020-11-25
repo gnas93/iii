@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAA;EACH,OAAO,EAAE,CAAC;CACb",
+    "sources": [
+        "../pages/BackTop.scss"
+    ],
+    "names": [],
+    "file": "BackTop.css"
+}
